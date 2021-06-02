@@ -59,6 +59,10 @@ Working on various analytics based cases that facilitates clients for next-gener
 ##### National University of Singapore
 Masters Degree, 2016
 
+Completed a one and half year course on Statistics.
+
+###### Subjects
+
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
