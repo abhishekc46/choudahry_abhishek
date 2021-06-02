@@ -24,6 +24,7 @@ I am __Abhishek Choudhary__, a seasoned data scientist with ~7 years of progress
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Extracurricular](#extracurricular) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -83,3 +84,6 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+
+
+#### Extracurricular
