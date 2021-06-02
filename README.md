@@ -33,20 +33,31 @@ I am __Abhishek Choudhary__, a seasoned data scientist with ~7 years of progress
 <!-- Add your details -->
 ##### BOSTON CONSULTING GROUP
 SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+Apr-2020 to Present: 2 year 3 months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
+ROLE: Data Scientist
 UNIT: BCG GAMMA
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+<br>
+
+##### Aon Singapore
+SENIOR ANALYST<br>
+Apr-2020 to Present: 2 year 3 months
+
+ROLE: Data Scientist
+UNIT: BCG GAMMA
+
+Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+
 
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### National University of Singapore
+Masters Degree, 2016
 
 <!-- EDUCATION Section Ends -->
 
